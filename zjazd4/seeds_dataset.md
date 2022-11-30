@@ -24,4 +24,4 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("dane1.csv", delimiter=";")
 ```
-![Alt text](pszenica_zaladowana.jpg?raw=true "załadowane dane")
+![Alt text](pszenica_zaladowana.png?raw=true "załadowane dane")
